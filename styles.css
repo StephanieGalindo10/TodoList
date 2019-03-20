@@ -1,9 +1,13 @@
 
 body {
   padding-top: 50px;
+  background-color: #150202 !important;
 }
-.background{
+.container{
   background-image: url(https://orig00.deviantart.net/0e81/f/2015/106/1/c/the_early_bird__pixel_animation__by_vannbun-d8py54k.gif)
+}
+.navbar-inverse {
+  background-color: #7597bf !important;
 }
 .starter-template {
   padding: 40px 15px;

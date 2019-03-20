@@ -2,7 +2,7 @@
 class ToDoClass {
     constructor() {
         /*tasks is assigned to a local storage variable in order to retrieve are stored data.
-        We save our taks in localStorage as a string with 'TASKS' as its key.
+        We save our task in localStorage as a string with 'TASKS' as its key.
         So when the user opens the website for the first time we need to check if any data is present in local storage with the
         key TASKS. We use JSON.parse to convert the data retrieved from localStorage from a string to an object.
         */
@@ -103,4 +103,5 @@ class ToDoClass {
 let toDo;
 window.addEventListener("load", () => {
   toDo = new ToDoClass();
+  
 });

@@ -4,8 +4,9 @@ Inspirations: I wanted to create a todo list that would allow the user to add or
 Theme:  Minimalism Office setting
 
 ## LIVE LINK 
-Link : 
+Link : https://stephaniegalindo10.github.io/TodoList/
 
+![To DO List Website](https://github.com/StephanieGalindo10/TodoList/blob/master/media/todolist.png)
 
 
 
@@ -15,7 +16,7 @@ Link :
 * Javascript
 
 ## EXTRA
-* Background Image  Link : https://unsplash.com/
+* Background Image Source  Link : https://unsplash.com/
 * W3schools Link:https://www.w3schools.com/howto/howto_css_calendar.asp
 
 

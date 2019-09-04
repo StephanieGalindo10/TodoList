@@ -14,6 +14,10 @@ Link : https://stephaniegalindo10.github.io/TodoList/
 * HTML
 * CSS
 * Javascript
+* JQuery
+* Bootstrap
+
+
 
 ## EXTRA
 * Background Image Source  Link : https://unsplash.com/

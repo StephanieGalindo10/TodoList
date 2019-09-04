@@ -4,7 +4,7 @@ Inspirations: I wanted to create a todo list that would allow the user to add or
 Theme:  Minimalism Office setting
 
 ## LIVE LINK 
-Link : https://stephaniegalindo10.github.io/TodoList/
+Link :https://stephaniegalindo10.github.io/TodoList-Minimalism/
 
 ![To DO List Website](https://github.com/StephanieGalindo10/TodoList/blob/master/media/todolist.png)
 

@@ -1,6 +1,7 @@
 # ToDo List Minimalism
 
 Inspirations: I wanted to create a todo list that would allow the user to add or delete task they created.They can checkmark when they are done or delete the whole list. Also allowing the user to use the calendar to see the dates to be more organized.
+
 Theme:  Minimalism Office setting
 
 ## LIVE LINK 
